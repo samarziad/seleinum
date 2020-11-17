@@ -1,0 +1,7 @@
+public class main{
+
+public static void yest(){
+
+    System.out.println("test njkdj");
+        }
+        }
